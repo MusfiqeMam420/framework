@@ -375,6 +375,40 @@
   width: 100%;
 }
 
+.offset-1 {
+  margin-left: 8.33333333%;
+}
+.offset-2 {
+  margin-left: 16.66666667%;
+}
+.offset-3 {
+  margin-left: 25%;
+}
+.offset-4 {
+  margin-left: 33.33333333%;
+}
+.offset-5 {
+  margin-left: 41.66666667%;
+}
+.offset-6 {
+  margin-left: 50%;
+}
+.offset-7 {
+  margin-left: 58.33333333%;
+}
+.offset-8 {
+  margin-left: 66.66666667%;
+}
+.offset-9 {
+  margin-left: 75%;
+}
+.offset-10 {
+  margin-left: 83.33333333%;
+}
+.offset-11 {
+  margin-left: 91.66666667%;
+}
+
 @media (min-width: 576px) {
   .pot-s-auto {
     flex: 0 0 auto;
@@ -427,6 +461,42 @@
   .pot-s-12 {
     flex: 0 0 auto;
     width: 100%;
+  }
+  .poise-s-0 {
+    margin-left: 0;
+  }
+  .poise-s-1 {
+    margin-left: 8.33333333%;
+  }
+  .poise-s-2 {
+    margin-left: 16.66666667%;
+  }
+  .poise-s-3 {
+    margin-left: 25%;
+  }
+  .poise-s-4 {
+    margin-left: 33.33333333%;
+  }
+  .poise-s-5 {
+    margin-left: 41.66666667%;
+  }
+  .poise-s-6 {
+    margin-left: 50%;
+  }
+  .poise-s-7 {
+    margin-left: 58.33333333%;
+  }
+  .poise-s-8 {
+    margin-left: 66.66666667%;
+  }
+  .poise-s-9 {
+    margin-left: 75%;
+  }
+  .poise-s-10 {
+    margin-left: 83.33333333%;
+  }
+  .poise-s-11 {
+    margin-left: 91.66666667%;
   }
 }
 @media (min-width: 768px) {
@@ -481,6 +551,42 @@
   .pot-m-12 {
     flex: 0 0 auto;
     width: 100%;
+  }
+  .poise-m-0 {
+    margin-left: 0;
+  }
+  .poise-m-1 {
+    margin-left: 8.33333333%;
+  }
+  .poise-m-2 {
+    margin-left: 16.66666667%;
+  }
+  .poise-m-3 {
+    margin-left: 25%;
+  }
+  .poise-m-4 {
+    margin-left: 33.33333333%;
+  }
+  .poise-m-5 {
+    margin-left: 41.66666667%;
+  }
+  .poise-m-6 {
+    margin-left: 50%;
+  }
+  .poise-m-7 {
+    margin-left: 58.33333333%;
+  }
+  .poise-m-8 {
+    margin-left: 66.66666667%;
+  }
+  .poise-m-9 {
+    margin-left: 75%;
+  }
+  .poise-m-10 {
+    margin-left: 83.33333333%;
+  }
+  .poise-m-11 {
+    margin-left: 91.66666667%;
   }
 }
 
@@ -537,6 +643,42 @@
     flex: 0 0 auto;
     width: 100%;
   }
+  .poise-l-0 {
+    margin-left: 0;
+  }
+  .poise-l-1 {
+    margin-left: 8.33333333%;
+  }
+  .poise-l-2 {
+    margin-left: 16.66666667%;
+  }
+  .poise-l-3 {
+    margin-left: 25%;
+  }
+  .poise-l-4 {
+    margin-left: 33.33333333%;
+  }
+  .poise-l-5 {
+    margin-left: 41.66666667%;
+  }
+  .poise-l-6 {
+    margin-left: 50%;
+  }
+  .poise-l-7 {
+    margin-left: 58.33333333%;
+  }
+  .poise-l-8 {
+    margin-left: 66.66666667%;
+  }
+  .poise-l-9 {
+    margin-left: 75%;
+  }
+  .poise-l-10 {
+    margin-left: 83.33333333%;
+  }
+  .poise-l-11 {
+    margin-left: 91.66666667%;
+  }
 }
 @media (min-width: 1200px) {
   .pot-xl-auto {
@@ -590,6 +732,42 @@
   .pot-xl-12 {
     flex: 0 0 auto;
     width: 100%;
+  }
+  .poise-xl-0 {
+    margin-left: 0;
+  }
+  .poise-xl-1 {
+    margin-left: 8.33333333%;
+  }
+  .poise-xl-2 {
+    margin-left: 16.66666667%;
+  }
+  .poise-xl-3 {
+    margin-left: 25%;
+  }
+  .poise-xl-4 {
+    margin-left: 33.33333333%;
+  }
+  .poise-xl-5 {
+    margin-left: 41.66666667%;
+  }
+  .poise-xl-6 {
+    margin-left: 50%;
+  }
+  .poise-xl-7 {
+    margin-left: 58.33333333%;
+  }
+  .poise-xl-8 {
+    margin-left: 66.66666667%;
+  }
+  .poise-xl-9 {
+    margin-left: 75%;
+  }
+  .poise-xl-10 {
+    margin-left: 83.33333333%;
+  }
+  .poise-xl-11 {
+    margin-left: 91.66666667%;
   }
 }
 @media (min-width: 1400px) {
@@ -645,22 +823,42 @@
     flex: 0 0 auto;
     width: 100%;
   }
+  .poise-xxl-0 {
+    margin-left: 0;
+  }
+  .poise-xxl-1 {
+    margin-left: 8.33333333%;
+  }
+  .poise-xxl-2 {
+    margin-left: 16.66666667%;
+  }
+  .poise-xxl-3 {
+    margin-left: 25%;
+  }
+  .poise-xxl-4 {
+    margin-left: 33.33333333%;
+  }
+  .poise-xxl-5 {
+    margin-left: 41.66666667%;
+  }
+  .poise-xxl-6 {
+    margin-left: 50%;
+  }
+  .poise-xxl-7 {
+    margin-left: 58.33333333%;
+  }
+  .poise-xxl-8 {
+    margin-left: 66.66666667%;
+  }
+  .poise-xxl-9 {
+    margin-left: 75%;
+  }
+  .poise-xxl-10 {
+    margin-left: 83.33333333%;
+  }
+  .poise-xxl-11 {
+    margin-left: 91.66666667%;
+  }
 }
 
 /*----potumns end---*/
-
-.red {
-  background-color: #e0144c;
-}
-
-.blue {
-  background-color: #0008c1;
-}
-
-.yl {
-  background-color: #fce700;
-}
-
-.gry {
-  background-color: #333333;
-}
